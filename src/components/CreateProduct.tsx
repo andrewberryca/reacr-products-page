@@ -6,7 +6,7 @@ import {ErrorMessage} from './ErrorMessage'
 const productData: IProduct =  {
   title: '',
   price: 13.5,
-  description: 'lorem ipsum set',
+  description: 'Description goes here...',
   image: 'https://i.pravatar.cc',
   category: 'electronic',
   rating: {
