@@ -1,3 +1,4 @@
+// An example of JSX way
 import {createElement as e, useState} from 'react'
 
 function App() {
